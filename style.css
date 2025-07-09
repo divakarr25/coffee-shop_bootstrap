@@ -13,7 +13,6 @@
     background-repeat: no-repeat;
     position: relative;
     padding: 20rem 0rem;
-
 }
 
 .hero-section::before {
@@ -47,3 +46,17 @@ h2 {
 .mb-2 {
     height: 60px;
 }
+
+h4 {
+    font-family: "Nunito Sans", serif;
+    font-size: 20px;
+}
+
+.gallery img{
+    height: 350px;
+}
+
+
+
+
+
